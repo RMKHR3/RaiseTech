@@ -5,11 +5,12 @@
 ![サンプルアプリ起動確認](/image/sample-app.png)
 
 ## APサーバ
-
+- APサーバ名
 ![AP SERVER名](/image/AP_SERVER_name.png)
 puma v6.4.2
 
-- ![AP SERVER 停止確認](./images/sample_image.png)
+- APサーバ停止確認
+![AP SERVER 停止確認](/image/AP_SERVER_STOP.png)
 * APサーバを終了した場合、引き続きアクセスはできませんでした。
 
 ## DBサーバ
