@@ -2,11 +2,11 @@
 
 ## サンプルアプリケーション
 
-- ![サンプルアプリ起動確認](/image/sample-app.png)
+![サンプルアプリ起動確認](/image/sample-app.png)
 
 ## APサーバ
 
-- ![AP SERVER名](./images/sample_image.png)
+![AP SERVER名](/image/AP SERVER_name.png)
 puma v6.4.2
 
 - ![AP SERVER 停止確認](./images/sample_image.png)
