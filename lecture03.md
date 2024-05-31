@@ -6,7 +6,7 @@
 
 ## APサーバ
 
-![AP SERVER名](/image/APSERVER_name.png)
+![AP SERVER名](/image/AP_SERVER_name.png)
 puma v6.4.2
 
 - ![AP SERVER 停止確認](./images/sample_image.png)
