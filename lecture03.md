@@ -16,6 +16,7 @@ puma v6.4.2
 ## DBサーバ
 - DBサーバ名
 ![DB SERVER名](/image/DB_SERVE_name.png)
+
 MySQL v8.4.0
 
 - DBサーバ停止確認
