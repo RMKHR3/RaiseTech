@@ -14,11 +14,13 @@ puma v6.4.2
 * APサーバを終了した場合、引き続きアクセスはできませんでした。
 
 ## DBサーバ
-- ![DB SERVER名](./images/sample_image.png)
+- DBサーバ名
+![DB SERVER名](/image/DB_SERVER_name.png)
 MySQL v8.4.0
 
-- ![DB SERVER 停止確認](./images/sample_image.png)
-- ![Can't connect local MySQL](./images/sample_image.png)
+- DBサーバ停止確認
+![DB SERVER 停止確認](/image/DB_SERVER_STOP.png)
+![Can't connect local MySQL](/image/DB_SERVER_name.png)
 -  DBサーバを終了した場合、引き続きアクセスはできませんでした。
 -  Rails の構成管理ツールの名前は"Bundler"
 
