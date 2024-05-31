@@ -2,7 +2,7 @@
 
 ## サンプルアプリケーション
 
-- ![サンプルアプリ起動確認](/images/sample-app.png)
+- ![サンプルアプリ起動確認](/image/sample-app.png)
 
 ## APサーバ
 
